@@ -1,0 +1,2 @@
+# RSC-Conversion
+用做将SlimeCustomizer配置文件转换为RykenSlimeCustomizer配置文件的脚本
